@@ -2,7 +2,7 @@
 
 
 # Employee-Review-System
-App for employ review system
+App for employee review system
 
 ### Tech Stack
 
